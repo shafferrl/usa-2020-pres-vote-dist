@@ -16,12 +16,13 @@ Images/gitignore
 # Results #
 ###########
 
-Results/*/archive
+Results/**/archive
 Results/Final/json
 Results/Intermed
 
 # Other #
 #########
 
+**.~lock.CountyLandData.*
 **/__pycache__
 **/geckodriver.log
