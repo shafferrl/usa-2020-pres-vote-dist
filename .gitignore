@@ -1,0 +1,27 @@
+# Files and Directories to Exclude #
+####################################
+
+# Scripts #
+###########
+
+Scripts/APElectionScrape.py
+Scripts/county_slipup_corrections.py
+Scripts/verify_state_fips.py
+
+# Images #
+##########
+
+Images/gitignore
+
+# Results #
+###########
+
+Results/*/archive
+Results/Final/json
+Results/Intermed
+
+# Other #
+#########
+
+**/__pycache__
+**/geckodriver.log

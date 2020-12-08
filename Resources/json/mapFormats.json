@@ -1,0 +1,65 @@
+[
+   {
+      "name": "voter_dist",
+      "title": "Political Leanings by County",
+      "blurb": "Plot of relative Biden vs. Trump leanings in each county, blue and\n            red blended based on percentages for either candidate but not adjusted for\n            population/voter density. ",
+      "red": null,
+      "blue": null,
+      "opacity_adj": null,
+      "spec_html": "<div class=\"color-bar title\"><h3 style=\"font-weight:bold\">Vote Distrib.</h3><span style=\"font-weight:bold\">Color</span></div>\n                <div class=\"color-bar solid biden\"><h3>100% Biden</h3><span class=\"solid\"></span></div>\n                <div class=\"color-bar solid heavy-biden\"><h3>70/30 Bid./Tr.</h3><span class=\"solid\"></span></div>\n                <div class=\"color-bar solid neutral\"><h3>50/50 Dist.</h3><span class=\"solid\"></span></div>\n                <div class=\"color-bar solid heavy-trump\"><h3>30/70 Bid./Tr.</h3><span class=\"solid\"></span></div>\n                <div class=\"color-bar solid trump\"><h3>100% Trump</h3><span class=\"solid\"></span></div>"
+   },
+   {
+      "name": "voter_dnsty_linear",
+      "title": "Voter Density by County, No Density Adjustment",
+      "blurb": "Plot of voter density on US geographic map, color opacity\n            normalized to densest county and opacity shown on linear scale as \n            county's/precinct's fraction of densest county in the nation.",
+      "red": 0,
+      "blue": 0,
+      "opacity_adj": 1,
+      "spec_html": "\n                <div class=\"color-bar title\"><h3 style=\"font-weight:bold\">Vote Distrib.</h3><span style=\"font-weight:bold\">Voter Density</span></div>\n                <div class=\"color-bar bw\"><h3>N/A</h3><span class=\"grad\"></span></div>"
+   },
+   {
+      "name": "voter_dist_dnsty_linear",
+      "title": "Political Leanings + Voter Density, No Density Adjustment",
+      "blurb": "Plot of relative Biden vs. Trump leanings in each county, blue and\n            red blended based on precentages for either candidate, color opacity normalized\n            to densest county and opacity shown on linear scale as county's/precinct's fraction\n            of densest county in the nation.",
+      "red": null,
+      "blue": null,
+      "opacity_adj": 1,
+      "spec_html": "\n                <div class=\"color-bar title\"><h3 style=\"font-weight:bold\">Vote Distrib.</h3><span style=\"font-weight:bold\">Voter Density</span></div>\n                <div class=\"color-bar biden\"><h3>100% Biden</h3><span class=\"grad\"></span></div>\n                <div class=\"color-bar heavy-biden\"><h3>70/30 Bid./Tr.</h3><span class=\"grad\"></span></div>\n                <div class=\"color-bar neutral\"><h3>50/50 Dist.</h3><span class=\"grad\"></span></div>\n                <div class=\"color-bar heavy-trump\"><h3>30/70 Bid./Tr.</h3><span class=\"grad\"></span></div>\n                <div class=\"color-bar trump\"><h3>100% Trump</h3><span class=\"grad\"></span></div>"
+   },
+   {
+      "name": "voter_dnsty_bez_quadr",
+      "title": "Voter Density by County, Quadratic Bezier Adjusted",
+      "blurb": "Plot of voter density on US geographic map, color opacity\n            normalized to densest county and adjusted with quadratic bezier curve\n            in order to better see less-dense counties.",
+      "red": 0,
+      "blue": 0,
+      "opacity_adj": 2,
+      "spec_html": "\n                <div class=\"color-bar title\"><h3 style=\"font-weight:bold\">Vote Distrib.</h3><span style=\"font-weight:bold\">Voter Density</span></div>\n                <div class=\"color-bar bw\"><h3>N/A</h3><span class=\"grad\"></span></div>"
+   },
+   {
+      "name": "voter_dist_dnsty_bez_quadr",
+      "title": "Political Leanings + Voter Density, Quadratic Bezier Adjusted",
+      "blurb": "Plot of relative Biden vs. Trump leanings in each county, blue and\n            red blended based on precentages for either candidate, color opacity normalized\n            to densest county and adjusted with a quadratic bezier curve in order to better\n            see less-dense counties.",
+      "red": null,
+      "blue": null,
+      "opacity_adj": 2,
+      "spec_html": "\n                <div class=\"color-bar title\"><h3 style=\"font-weight:bold\">Vote Distrib.</h3><span style=\"font-weight:bold\">Voter Density</span></div>\n                <div class=\"color-bar biden\"><h3>100% Biden</h3><span class=\"grad\"></span></div>\n                <div class=\"color-bar heavy-biden\"><h3>70/30 Bid./Tr.</h3><span class=\"grad\"></span></div>\n                <div class=\"color-bar neutral\"><h3>50/50 Dist.</h3><span class=\"grad\"></span></div>\n                <div class=\"color-bar heavy-trump\"><h3>30/70 Bid./Tr.</h3><span class=\"grad\"></span></div>\n                <div class=\"color-bar trump\"><h3>100% Trump</h3><span class=\"grad\"></span></div>"
+   },
+   {
+      "name": "voter_dnsty_bez_cubic",
+      "title": "Voter Density by County, Cubic Bezier Adjusted",
+      "blurb": "Plot of voter density on US geographic map, color opacity\n            normalized to densest county and adjusted with cubic bezier curve\n            in order to better see less-dense counties.",
+      "red": 0,
+      "blue": 0,
+      "opacity_adj": 3,
+      "spec_html": "\n                <div class=\"color-bar title\"><h3 style=\"font-weight:bold\">Vote Distrib.</h3><span style=\"font-weight:bold\">Voter Density</span></div>\n                <div class=\"color-bar bw\"><h3>N/A</h3><span class=\"grad\"></span></div>"
+   },
+   {
+      "name": "voter_dist_dnsty_bez_cubic",
+      "title": "Political Leanings + Voter Density, Cubic Bezier Adjusted",
+      "blurb": "Plot of relative Biden vs. Trump leanings in each county, blue and\n            red blended based on precentages for either candidate, color opacity normalized\n            to densest county and adjusted with a cubic bezier curve in order to better\n            see less-dense counties.",
+      "red": null,
+      "blue": null,
+      "opacity_adj": 3,
+      "spec_html": "\n                <div class=\"color-bar title\"><h3 style=\"font-weight:bold\">Vote Distrib.</h3><span style=\"font-weight:bold\">Voter Density</span></div>\n                <div class=\"color-bar biden\"><h3>100% Biden</h3><span class=\"grad\"></span></div>\n                <div class=\"color-bar heavy-biden\"><h3>70/30 Bid./Tr.</h3><span class=\"grad\"></span></div>\n                <div class=\"color-bar neutral\"><h3>50/50 Dist.</h3><span class=\"grad\"></span></div>\n                <div class=\"color-bar heavy-trump\"><h3>30/70 Bid./Tr.</h3><span class=\"grad\"></span></div>\n                <div class=\"color-bar trump\"><h3>100% Trump</h3><span class=\"grad\"></span></div>"
+   }
+]

@@ -1,0 +1,95 @@
+{
+    "states": {
+        "CA": {
+            "url": [
+                    "https://electionresults.sos.ca.gov/returns/president/county/alameda",
+                    "https://electionresults.sos.ca.gov/returns/president/county/alpine",
+                    "https://electionresults.sos.ca.gov/returns/president/county/amador",
+                    "https://electionresults.sos.ca.gov/returns/president/county/butte",
+                    "https://electionresults.sos.ca.gov/returns/president/county/calaveras",
+                    "https://electionresults.sos.ca.gov/returns/president/county/colusa",
+                    "https://electionresults.sos.ca.gov/returns/president/county/contra-costa",
+                    "https://electionresults.sos.ca.gov/returns/president/county/del-norte",
+                    "https://electionresults.sos.ca.gov/returns/president/county/el-dorado",
+                    "https://electionresults.sos.ca.gov/returns/president/county/fresno",
+                    "https://electionresults.sos.ca.gov/returns/president/county/glenn",
+                    "https://electionresults.sos.ca.gov/returns/president/county/humboldt",
+                    "https://electionresults.sos.ca.gov/returns/president/county/imperial",
+                    "https://electionresults.sos.ca.gov/returns/president/county/inyo",
+                    "https://electionresults.sos.ca.gov/returns/president/county/kern",
+                    "https://electionresults.sos.ca.gov/returns/president/county/kings",
+                    "https://electionresults.sos.ca.gov/returns/president/county/lake",
+                    "https://electionresults.sos.ca.gov/returns/president/county/lassen",
+                    "https://electionresults.sos.ca.gov/returns/president/county/los-angeles",
+                    "https://electionresults.sos.ca.gov/returns/president/county/madera",
+                    "https://electionresults.sos.ca.gov/returns/president/county/marin",
+                    "https://electionresults.sos.ca.gov/returns/president/county/mariposa",
+                    "https://electionresults.sos.ca.gov/returns/president/county/mendocino",
+                    "https://electionresults.sos.ca.gov/returns/president/county/merced",
+                    "https://electionresults.sos.ca.gov/returns/president/county/modoc",
+                    "https://electionresults.sos.ca.gov/returns/president/county/mono",
+                    "https://electionresults.sos.ca.gov/returns/president/county/monterey",
+                    "https://electionresults.sos.ca.gov/returns/president/county/napa",
+                    "https://electionresults.sos.ca.gov/returns/president/county/nevada",
+                    "https://electionresults.sos.ca.gov/returns/president/county/orange",
+                    "https://electionresults.sos.ca.gov/returns/president/county/placer",
+                    "https://electionresults.sos.ca.gov/returns/president/county/plumas",
+                    "https://electionresults.sos.ca.gov/returns/president/county/riverside",
+                    "https://electionresults.sos.ca.gov/returns/president/county/sacramento",
+                    "https://electionresults.sos.ca.gov/returns/president/county/san-benito",
+                    "https://electionresults.sos.ca.gov/returns/president/county/san-bernardino",
+                    "https://electionresults.sos.ca.gov/returns/president/county/san-diego",
+                    "https://electionresults.sos.ca.gov/returns/president/county/san-francisco",
+                    "https://electionresults.sos.ca.gov/returns/president/county/san-joaquin",
+                    "https://electionresults.sos.ca.gov/returns/president/county/san-luis-obispo",
+                    "https://electionresults.sos.ca.gov/returns/president/county/san-mateo",
+                    "https://electionresults.sos.ca.gov/returns/president/county/santa-barbara",
+                    "https://electionresults.sos.ca.gov/returns/president/county/santa-clara",
+                    "https://electionresults.sos.ca.gov/returns/president/county/santa-cruz",
+                    "https://electionresults.sos.ca.gov/returns/president/county/shasta",
+                    "https://electionresults.sos.ca.gov/returns/president/county/sierra",
+                    "https://electionresults.sos.ca.gov/returns/president/county/siskiyou",
+                    "https://electionresults.sos.ca.gov/returns/president/county/solano",
+                    "https://electionresults.sos.ca.gov/returns/president/county/sonoma",
+                    "https://electionresults.sos.ca.gov/returns/president/county/stanislaus",
+                    "https://electionresults.sos.ca.gov/returns/president/county/sutter",
+                    "https://electionresults.sos.ca.gov/returns/president/county/tehama",
+                    "https://electionresults.sos.ca.gov/returns/president/county/trinity",
+                    "https://electionresults.sos.ca.gov/returns/president/county/tulare",
+                    "https://electionresults.sos.ca.gov/returns/president/county/tuolumne",
+                    "https://electionresults.sos.ca.gov/returns/president/county/ventura",
+                    "https://electionresults.sos.ca.gov/returns/president/county/yolo",
+                    "https://electionresults.sos.ca.gov/returns/president/county/yuba"
+                ],
+            "notes":  ["1"]
+        },
+        "ID": {
+            "url": ["https://www.livevoterturnout.com/Idaho/LiveResults/1/en/Index_113.html"],
+            "notes": ["1"]
+        },
+        "MT": {
+            "url": ["https://electionresults.mt.gov/resultsSW.aspx?type=FED&map=CTY"],
+            "notes": ["2"]
+        },
+        "NV": {
+            "url": ["https://silverstateelection.nv.gov/USPresidential/#race1"]
+        },
+        "OH": {
+            "spreadsheet": "/home/shafferr/Desktop/MiscMedia/WorkRelated/USCountiesSVG/OhioPresResults.xlsx"
+        },
+        "OR": {
+            "url": ["https://results.oregonvotes.gov/resultsSW.aspx?type=FED&map=CTY"],
+            "notes": ["2"]
+        },
+        "PA": {
+            "url": ["https://www.electionreturns.pa.gov/General/CountyBreakDownResults?officeId=1&districtId=1&ElectionID=undefined&ElectionType=undefined&IsActive=undefined"]
+        },
+        "WA": {
+            "url": ["https://results.vote.wa.gov/results/20201103/president-vice-president_bycounty.html"]
+        }
+    },
+    "notes": {
+        "1": "County results are on separate web pages",
+        "2": "JavaScript-rendered content requires button click to display results"
+    }
+}
