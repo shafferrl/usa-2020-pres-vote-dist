@@ -4,21 +4,21 @@
 # Scripts #
 ###########
 
-Scripts/APElectionScrape.py
-Scripts/county_slipup_corrections.py
-Scripts/verify_state_fips.py
+scripts/APElectionScrape.py
+scripts/county_slipup_corrections.py
+scripts/verify_state_fips.py
 
 # Images #
 ##########
 
-Images/gitignore
+images/gitignore
 
 # Results #
 ###########
 
-Results/**/archive
-Results/Final/json
-Results/Intermed
+results/**/archive
+results/final/json
+results/interim
 
 # Other #
 #########
