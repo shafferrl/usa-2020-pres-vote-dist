@@ -34,7 +34,7 @@ The data have been presented in the following formats:
 
 1) Voter Distribution (voter_dist):  
     Political leanings by county without voter/population density included.  Red color component represents the fraction of 
-    Republican votes, and blue color component representsthe fraction of Democratic votes.
+    Republican votes, and blue color component represents the fraction of Democratic votes.
     
 2) Voter Density, Linear (voter_dnsty_linear): 
     Linear visualization of voter density in each county normalized to most voter-dense county (NY County, FIPS 36061).
